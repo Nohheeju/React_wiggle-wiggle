@@ -1,0 +1,460 @@
+{
+  "Living": [
+    {
+      "id": 0,
+      "img": "https://wiggle-wiggle.com/web/product/big/202402/1a590cebb8d9282aa94726850c4d3e47.jpg",
+      "title": "키즈 욕실슬리퍼(210) - Rainbow Smile",
+      "price": 16700,
+      "min-cate": "미용/욕실용품",
+      "tag": ["new", "욕실슬리퍼"],
+      "choose": ["Rainbow Smile"]
+    },
+    {
+      "id": 1,
+      "img": "https://wiggle-wiggle.com/web/product/big/202402/dfd00cb4e7aa4542122c009b7d1e1a0b.jpg",
+      "title": "키즈 욕실슬리퍼(195) - Cloud Bear",
+      "price": 16700,
+      "min-cate": "미용/욕실용품",
+      "tag": ["new", "욕실슬리퍼"],
+      "choose": ["Cloud Bear"]
+    },
+    {
+      "id": 2,
+      "img": "https://wiggle-wiggle.com/web/product/big/202402/16d89efbccb303c7e04c38215411d198.jpg",
+      "title": "욕실 슬리퍼 - Cloud Bear",
+      "price": 18900,
+      "min-cate": "미용/욕실용품",
+      "tag": ["new", "욕실슬리퍼"],
+      "choose": ["Cloud Bear"]
+    },
+    {
+      "id": 3,
+      "img": "https://wiggle-wiggle.com/web/product/big/202304/09f2913b65b6445367b1726aae70a52b.jpg",
+      "title": "욕실 슬리퍼 - Forest",
+      "price": 18900,
+      "min-cate": "미용/욕실용품",
+      "tag": ["best", "욕실슬리퍼"],
+      "choose": ["Forest"]
+    },
+    {
+      "id": 4,
+      "img": "https://wiggle-wiggle.com/web/product/big/202304/fcd7e4b20b98395e0733ab8c67739feb.jpg",
+      "title": "욕실 슬리퍼 - Bubble Bear",
+      "price": 18900,
+      "min-cate": "미용/욕실용품",
+      "tag": ["best", "욕실슬리퍼"],
+      "choose": ["Bubble Bear"]
+    },
+    {
+      "id": 5,
+      "img": "https://wiggle-wiggle.com/web/product/big/202311/83674bbf93cf313c91efc1f8b138ef6f.jpg",
+      "title": "[벨리곰X위글위글] 욕실 슬리퍼",
+      "price": 18900,
+      "min-cate": "미용/욕실용품",
+      "tag": ["best", "욕실슬리퍼"],
+      "choose": ["Bellygom X WiggleWiggle"]
+    },
+    {
+      "id": 6,
+      "img": "https://cafe24img.poxo.com/wigglewiggle20/web/product/big/202212/a15e4680398ec973f9539c36ccd0344f.jpg",
+      "title": "발매트 - Forest",
+      "price": 20700,
+      "min-cate": "홈데코",
+      "tag": ["best", "쿠션/담요/매트"],
+      "choose": ["Forest"]
+    },
+    {
+      "id": 7,
+      "img": "https://wiggle-wiggle.com/web/product/big/202402/07879be57d651d707fd7c7f11bbc2adc.jpg",
+      "thumbnail": "https://wiggle-wiggle.com/web/product/extra/big/202209/5ee6b746c5d4dedc9a444aa2c94b7eb0.jpg",
+      "title": "손톱깎이 세트 - Smile We Love",
+      "price": 16000,
+      "min-cate": "미용/욕실용품",
+      "tag": ["best", "네일용품"],
+      "choose": ["Smile We Love", "Smile We Love Pink"]
+    },
+    {
+      "id": 8,
+      "img": "https://wiggle-wiggle.com/web/product/big/202402/22acf818f8af1179f8194c0e862b2473.jpg",
+      "title": "테이프 커터기",
+      "price": 14300,
+      "min-cate": "문구",
+      "tag": ["카드/데코용품"],
+      "choose": ["Funny Puppy", "Smile Rainbow"]
+    },
+    {
+      "id": 9,
+      "img": "https://wiggle-wiggle.com/web/product/big/202307/9f8b7c0808431197921e1df0906d1159.jpg",
+      "title": "스티키 메모 세트 - Little Buddy Nametag",
+      "price": 11900,
+      "min-cate": "문구",
+      "tag": ["카드/데코용품"],
+      "choose": ["Little Buddy Nametag"]
+    },
+    {
+      "id": 10,
+      "img": "https://wiggle-wiggle.com/web/product/big/202307/32e5b56615f2fca2872e3a1d075772da.jpg",
+      "title": "스티키 메모 세트 - Triple Wiggles",
+      "price": 11900,
+      "min-cate": "문구",
+      "tag": ["카드/데코용품"],
+      "choose": ["Triple Wiggles"]
+    },
+    {
+      "id": 11,
+      "img": "https://wiggle-wiggle.com/web/product/big/202307/8ea25cc8902c03a38747b5764ef6a907.jpg",
+      "title": "스티키 메모 세트 - Daily Record",
+      "price": 11900,
+      "min-cate": "문구",
+      "tag": ["카드/데코용품"],
+      "choose": ["Daily Record"]
+    },
+    {
+      "id": 12,
+      "img": "https://wiggle-wiggle.com/web/product/big/202311/2d4483354af12e72b6521e78ddd0cf4b.jpg",
+      "title": "팝업 카드 - Blooming",
+      "price": 6500,
+      "min-cate": "문구",
+      "tag": ["카드/데코용품"],
+      "choose": ["Blooming"]
+    },
+    {
+      "id": 13,
+      "img": "https://cafe24img.poxo.com/wigglewiggle20/web/product/big/202311/0393514dd807878a509882be9f52b55d.jpg",
+      "title": "팝업 카드 - Party Time",
+      "price": 6500,
+      "min-cate": "문구",
+      "tag": ["카드/데코용품"],
+      "choose": ["Party Time"]
+    },
+    {
+      "id": 14,
+      "img": "https://cafe24img.poxo.com/wigglewiggle20/web/product/big/202401/97ba19396211aa1dd6953dfa8fd6aac0.jpg",
+      "title": "리무버블 스티커",
+      "price": 8700,
+      "min-cate": "문구",
+      "tag": ["카드/데코용품"],
+      "choose": ["Popping Land", "Party Box"]
+    },
+    {
+      "id": 15,
+      "img": "https://wiggle-wiggle.com/web/product/big/202402/965a7da20ed6d47537d7fb943304b14d.jpg",
+      "title": "마스킹 테이프",
+      "price": 4000,
+      "min-cate": "문구",
+      "tag": ["new", "best", "카드/데코용품"],
+      "choose": [
+        "Forest",
+        "Rainbow Smile",
+        "Smile We Love",
+        "3종 SET (+7,200원)"
+      ]
+    }
+  ],
+  "Fashion": [
+    {
+      "id": 0,
+      "img": "https://www.wiggle-wiggle.com/web/product/medium/202401/2852ea1b60342c242433c16cdb5c498e.jpg",
+      "title": "리유저블 쇼퍼백(S/M/L) - Hound Tooth Check",
+      "price": 10900,
+      "min-cate": "가방",
+      "tag": ["best", "쇼퍼백"],
+      "choose": ["S", " M (+2,000원)", "L (+4,000원)"]
+    },
+    {
+      "id": 1,
+      "img": "https://cafe24img.poxo.com/wigglewiggle20/web/product/big/202401/e91fc44b2b267a95a9a9bbe52ec9942b.jpg",
+      "title": "리유저블 쇼퍼백(M) - Pizza Time",
+      "price": 12900,
+      "min-cate": "가방",
+      "tag": ["쇼퍼백"],
+      "choose": ["new", "best", "Pizza Time"]
+    },
+    {
+      "id": 2,
+      "img": "https://cafe24img.poxo.com/wigglewiggle20/web/product/big/202401/98e82b8188b2387b67548917f0f505b7.jpg",
+      "title": "리유저블 쇼퍼백(S/M/L) - Teddy Bear",
+      "price": 10900,
+      "min-cate": "가방",
+      "tag": ["best", "쇼퍼백"],
+      "choose": ["S", " M (+2,000원)", "L (+4,000원)"]
+    },
+    {
+      "id": 3,
+      "img": "https://cafe24img.poxo.com/wigglewiggle20/web/product/big/202307/da292b94d6a07e4cc41c5b52062ec936.jpg",
+      "title": "타포린백(M/L) - Rainbow Crush Smile",
+      "price": 6900,
+      "min-cate": "가방",
+      "tag": ["best", "쇼퍼백"],
+      "choose": ["M", "L (+2,000원)"]
+    },
+    {
+      "id": 4,
+      "img": "https://wiggle-wiggle.com/web/product/medium/202208/35ef3c792341b8505f53fb74c435ede1.jpg",
+      "title": "타포린백(M/L) - Checkerboard",
+      "price": 6900,
+      "min-cate": "가방",
+      "tag": ["best", "쇼퍼백"],
+      "choose": ["M", "L (+2,000원)"]
+    },
+    {
+      "id": 5,
+      "img": "https://cafe24img.poxo.com/wigglewiggle20/web/product/big/202401/5fe30e803159677bade4bea7fc7fa225.jpg",
+      "title": "리유저블 쇼퍼백(L) - Super Market",
+      "price": 14900,
+      "min-cate": "가방",
+      "tag": ["best", "쇼퍼백"],
+      "choose": ["Super Market"]
+    },
+    {
+      "id": 6,
+      "img": "https://cafe24img.poxo.com/wigglewiggle20/web/product/big/202401/14f34667354c160879f0cc960ec55b75.jpg",
+      "title": "리유저블 쇼퍼백(S) - Popping Land",
+      "price": 10900,
+      "min-cate": "가방",
+      "tag": ["best", "쇼퍼백"],
+      "choose": ["Popping Land"]
+    },
+    {
+      "id": 7,
+      "img": "https://wiggle-wiggle.com/web/product/big/202210/e249d2ae2e48077348184746d9c230ae.jpg",
+      "title": "라운지 로브 - Don't Panic",
+      "price": 99900,
+      "min-cate": "의류",
+      "tag": ["best", "로브/랩타월"],
+      "choose": ["Don't Panic", "Don't Panic_Green"]
+    },
+    {
+      "id": 8,
+      "img": "https://wiggle-wiggle.com/web/product/big/202310/503b72500d086ff50c63b9c495cdcff4.jpg",
+      "thumbnail": "https://wiggle-wiggle.com/web/product/extra/big/202310/3c1c88aae8ad3dae74f8e51c798c273e.jpg",
+      "title": "키즈 로브 - Don't Panic",
+      "price": 54900,
+      "min-cate": "의류",
+      "tag": ["new", "best", "로브/랩타월"],
+      "choose": ["Don't Panic"]
+    },
+    {
+      "id": 9,
+      "img": "https://wiggle-wiggle.com/web/product/big/202310/fd34ca0bf3997b120cf79b78021a5748.jpg",
+      "title": "라운지 로브 - Land of Love",
+      "price": 99900,
+      "min-cate": "의류",
+      "tag": ["new", "로브/랩타월"],
+      "choose": ["Land of Love"]
+    },
+    {
+      "id": 10,
+      "img": "https://wiggle-wiggle.com/web/product/big/202310/217501e0407abe1483a51e4a9a9aa6d0.jpg",
+      "title": "라운지 로브 - Dreamers",
+      "price": 99900,
+      "min-cate": "의류",
+      "tag": ["new", "로브/랩타월"],
+      "choose": ["Dreamers"]
+    },
+    {
+      "id": 11,
+      "img": "https://wiggle-wiggle.com/web/product/big/202403/29daf487230cef43182e6fc755d69d0b.jpg",
+      "title": "배스 랩 타월 - Teddy Bear",
+      "price": 69500,
+      "min-cate": "의류",
+      "tag": ["new", "로브/랩타월"],
+      "choose": ["Teddy Bear(FRPOLBWT-002)"]
+    },
+    {
+      "id": 12,
+      "img": "https://wiggle-wiggle.com/web/product/big/202110/02316ad0a45d5fccb863cbcb93d04eb8.jpg",
+      "title": "배스 랩 타월 - Smile We Love",
+      "price": 69500,
+      "min-cate": "의류",
+      "tag": ["new", "로브/랩타월"],
+      "choose": ["Smile We Love(FRPOLBWT-001)"]
+    },
+    {
+      "id": 13,
+      "img": "https://wiggle-wiggle.com/web/product/big/202402/ba5dd14e3299689cf0282cbf566fe6e7.jpg",
+      "title": "배스 랩 타월 - Smile Cherry Argyle",
+      "price": 69500,
+      "min-cate": "의류",
+      "tag": ["로브/랩타월"],
+      "choose": ["Smile Cherry Argyle"]
+    },
+    {
+      "id": 14,
+      "img": "https://cafe24img.poxo.com/wigglewiggle20/web/product/big/202402/fa6d38f9f50f853c2f843f211ea5740e.jpg",
+      "title": "라운지 로브 - Teddy Bear",
+      "price": 99900,
+      "min-cate": "의류",
+      "tag": ["로브/랩타월"],
+      "choose": ["Teddy Bear(FRPOLLRB-002)"]
+    },
+    {
+      "id": 15,
+      "img": "https://cafe24img.poxo.com/wigglewiggle20/web/product/big/202210/78b32a510280dd9e8dcfcc808d8d276d.jpg",
+      "title": "라운지 로브 - Smile Cherry Argyle",
+      "price": 99900,
+      "min-cate": "의류",
+      "tag": ["로브/랩타월"],
+      "choose": ["Smile Cherry Argyle"]
+    }
+  ],
+  "Digital": [
+    {
+      "id": 0,
+      "img": "https://wiggle-wiggle.com/web/product/big/202302/d0b4fec37cebba8630d27902be3d040f.jpg",
+      "title": "[주문제작] 투명케이스 - Sticker Pack",
+      "price": 17200,
+      "min-cate": "모바일",
+      "tag": ["best", "폰케이스"],
+      "choose": ["[필수] 기종은 배송메시지에 적어주세요"]
+    },
+    {
+      "id": 1,
+      "img": "https://wiggle-wiggle.com/web/product/big/202302/5e0f9f9174134adb228482f0642b3b5c.jpg",
+      "title": "[주문제작] 투명케이스 - Balloon Bear",
+      "price": 19500,
+      "min-cate": "모바일",
+      "tag": ["best", "폰케이스"],
+      "choose": ["[필수] 기종은 배송메시지에 적어주세요"]
+    },
+    {
+      "id": 2,
+      "img": "https://wiggle-wiggle.com/web/product/big/202111/bb3062b8ce3061da40bef7709f5f3cf7.jpg",
+      "title": "[주문제작] 갤럭시Z플립 투명케이스",
+      "price": 17200,
+      "min-cate": "모바일",
+      "tag": ["new", "best", "폰케이스"],
+      "choose": [
+        "Flower Bed(TC-003)",
+        "Composition Book(TC-004)",
+        "Sticker Pack(TC-005)"
+      ]
+    },
+    {
+      "id": 3,
+      "img": "https://wiggle-wiggle.com/web/product/big/202210/1ca70c6a2cd9d63b2cb2c50d162bfa3f.jpg",
+      "title": "[주문제작] 투명케이스 - Honey Bee",
+      "price": 19500,
+      "min-cate": "모바일",
+      "tag": ["new", "best", "폰케이스"],
+      "choose": ["[필수] 기종은 배송메시지에 적어주세요"]
+    },
+    {
+      "id": 4,
+      "img": "https://wiggle-wiggle.com/web/product/big/202307/1f2bce36ffb64ac621ebab2b07fe0360.jpg",
+      "title": "[주문제작] 투명 카드케이스 - Funny Puppy",
+      "price": 19500,
+      "min-cate": "모바일",
+      "tag": ["new", "폰케이스"],
+      "choose": ["[필수] 기종은 배송메시지에 적어주세요"]
+    },
+    {
+      "id": 5,
+      "img": "https://wiggle-wiggle.com/web/product/big/202307/beb43a26077df56017b50519195f56ec.jpg",
+      "title": "[주문제작] 투명 카드케이스 - Calming Turtle",
+      "price": 19500,
+      "min-cate": "모바일",
+      "tag": ["new", "폰케이스"],
+      "choose": ["[필수] 기종은 배송메시지에 적어주세요"]
+    },
+    {
+      "id": 6,
+      "img": "https://wiggle-wiggle.com/web/product/big/202307/86e81be2eef9a6ec319888558b111e62.jpg",
+      "title": "[주문제작] 투명 카드케이스 - Sweet Candy",
+      "price": 19500,
+      "min-cate": "모바일",
+      "tag": ["new", "폰케이스"],
+      "choose": ["[필수] 기종은 배송메시지에 적어주세요"]
+    },
+    {
+      "id": 7,
+      "img": "https://wiggle-wiggle.com/web/product/big/202304/00b5a8503ceb56bffdbffdbc195a6d93.jpg",
+      "title": "[주문제작] 투명 카드케이스 - Little Play Bunny",
+      "price": 19500,
+      "min-cate": "모바일",
+      "tag": ["폰케이스"],
+      "choose": ["[필수] 기종은 배송메시지에 적어주세요"]
+    },
+    {
+      "id": 8,
+      "img": "https://wiggle-wiggle.com/web/product/big/202304/e92594ea421d987f5d444f07ee47260b.jpg",
+      "title": "[주문제작] 투명 카드케이스 - Fluffy Rabbit",
+      "price": 19500,
+      "min-cate": "모바일",
+      "tag": ["폰케이스"],
+      "choose": ["[필수] 기종은 배송메시지에 적어주세요"]
+    },
+    {
+      "id": 9,
+      "img": "https://wiggle-wiggle.com/web/product/big/202210/d09eee8b7bf6432d4e055084df6ad4af.jpg",
+      "title": "[주문제작] 투명 카드케이스 - Couch Potato",
+      "price": 19500,
+      "min-cate": "모바일",
+      "tag": ["폰케이스"],
+      "choose": ["[필수] 기종은 배송메시지에 적어주세요"]
+    },
+    {
+      "id": 10,
+      "img": "https://wiggle-wiggle.com/web/product/big/202210/da023251f903543b5fc147841b06c99c.jpg",
+      "title": "[주문제작] 갤럭시Z플립 투명케이스 4",
+      "price": 17200,
+      "min-cate": "모바일",
+      "tag": ["폰케이스"],
+      "choose": ["Couch Potato", "Honey Bee"]
+    },
+    {
+      "id": 11,
+      "img": "https://wiggle-wiggle.com/web/product/medium/202302/02145da1c1229917208140134d3e3d7e.jpg",
+      "title": "빅그립톡 - Smile We Love",
+      "price": 17200,
+      "min-cate": "모바일",
+      "tag": ["best", "그립톡"],
+      "choose": ["Smile We Love(BT-001)"]
+    },
+    {
+      "id": 12,
+      "img": "https://wiggle-wiggle.com/web/product/medium/202401/410c3c1f7131f9ea43d5c8e355af84ca.png",
+      "thumbnail": "https://wiggle-wiggle.com/web/product/extra/big/202308/4bbacd544b0c5293feb534045eb3f3e7.jpg",
+      "title": "[앱코X위글위글] 키보드 - Color Mix",
+      "price": 38200,
+      "min-cate": "PC/노트북/패드",
+      "tag": ["new", "best", "마우스/키보드"],
+      "choose": ["Color Mix"]
+    },
+    {
+      "id": 13,
+      "img": "https://wiggle-wiggle.com/web/product/medium/202108/c8c620c5d8894b59d0106b85713fdbdd.jpg",
+      "title": "말랑 무선마우스 & 하트 마우스패드 SET - Wiggle Heart",
+      "price": 23500,
+      "min-cate": "PC/노트북/패드",
+      "tag": ["best", "마우스/키보드"],
+      "choose": ["Wiggle Heart(FRABSMOU-006)"]
+    },
+    {
+      "id": 14,
+      "img": "https://wiggle-wiggle.com/web/product/medium/202401/c310d876f7ec03c32757b3b048a5df44.jpg",
+      "title": "말랑 무선마우스",
+      "price": 18900,
+      "min-cate": "PC/노트북/패드",
+      "tag": ["new", "마우스/키보드"],
+      "choose": [
+        "Yellow & Blue",
+        "Mint & Pink",
+        "Navy & Red",
+        "Smile Friends",
+        "Smile Bubble",
+        "Smile Balloon",
+        "Nice Shot"
+      ]
+    },
+    {
+      "id": 15,
+      "img": "https://wiggle-wiggle.com/web/product/big/202401/3294caf3d3a84a86da4ebccce39735c5.jpg",
+      "title": "일회용 카메라",
+      "price": 28800,
+      "min-cate": "카메라",
+      "tag": ["new", "일회용카메라"],
+      "choose": ["Popping Land", "Palette", "Surfing Bear", "Cherry"]
+    }
+  ]
+}
